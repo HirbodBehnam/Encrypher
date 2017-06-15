@@ -156,9 +156,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Console.h" />
     <ClInclude Include="CSharp.h" />
     <ClInclude Include="FileC.h" />
